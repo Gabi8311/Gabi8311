@@ -1,7 +1,11 @@
-<h1 align = "center"> Hola 👋, soy Gabriel Moreno </h1>
-<h3 align = "center"> Hola, soy Gabriel Moreno. Soy un desarrollador junior apasionado por la programación y las nuevas tecnologías. He realizado el bootcamp de desarrollo web en Ironhack y estoy a punto de terminar el Grado Superior en DAM. En este perfil puedes ver todos mis repositorios. </h3>
+<h1 align = "center"> Hi 👋, I'm Gabriel Moreno </h1>
+<h3 align = "center">I´m a junior developer passionate about programming and
+new technologies. I have done the web development bootcamp
+in Ironhack and I´m about to finish the 
+Higher Degree in DAM. In this
+profile you can check out all of my repositories. </h3>
 
-- 📫 Cómo contactarme **gabidam1920@gmail.com**
+- Contact Me at 📫  **gabidam1920@gmail.com**
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "izquierda">
