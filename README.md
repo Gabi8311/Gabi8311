@@ -13,3 +13,4 @@ profile you can check out all of my repositories. </h3>
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=gabi8311&show_icons=true&locale=en&layout=compact" alt = "gabi8311" /> </p>
 
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=gabi8311&show_icons=true&locale=en" alt = "gabi8311" /> </p>
