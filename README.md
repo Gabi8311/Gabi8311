@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi Coders<a target="_blank" rel = "noopener noreferrer" href = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" style = "max-width:100%;" ></a>, I´m <a href = "https://https://github.com/Gabi8311" >Gabriel Moreno</a></h1>
+<h1 align = "center"> Hi Coders<a target="_blank" rel = "noopener noreferrer" href = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" style = "max-width:100%;" ></a>, I´m <a href = "https://github.com/Gabi8311/Mi_porfolio/blob/master/images/mi_foto.png?raw=true" >Gabriel Moreno</a></h1>
 
 <img align = "right" src = "https://github.com/Gabi8311/EntregaLM/blob/master/images/image0.png" alt = "gabi8311" width = "250" style = "max-width:100%;"/>
 <h3 align = "left" style = "margin-right:40;">I´m a junior Developer passionate about programming and
