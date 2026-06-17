@@ -24,6 +24,10 @@ Building scalable, maintainable and user-focused mobile applications.
 
 ## About Me
 
+<p align="center">
+  <img src="./assets/avatar.png" width="180" alt="Gabriel Moreno"/>
+</p>
+
 I'm an iOS Developer focused on building scalable and maintainable mobile applications using Swift, UIKit and clean architectural patterns.
 
 Currently working on enterprise healthcare mobile solutions, applying modular architecture, VIPER, SOLID principles and reusable components to solve real product problems.
