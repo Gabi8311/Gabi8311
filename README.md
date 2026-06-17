@@ -1,18 +1,84 @@
-<h1 align = "center"> Hi Coders<a target="_blank" rel = "noopener noreferrer" href = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" style = "max-width:100%;" ></a>, I´m <a href = "https://github.com/Gabi8311/Mi_porfolio/blob/master/images/mi_foto.png?raw=true" >Gabriel Moreno</a></h1>
+<h1 align="center">Hi, I'm Gabriel Moreno 👋</h1>
 
-<img align = "right" src = "https://github.com/Gabi8311/EntregaLM/blob/master/images/image0.png" alt = "gabi8311" width = "250" style = "max-width:100%;"/>
-<h3 align = "left" style = "margin-right:40;">I´m a junior Developer passionate about programming and
-new technologies. I have done the Web Development Bootcamp in <a href = "https://www.ironhack.com/es" target = "_blank">Ironhack</a> and I´m about to finish the 
-Higher Degree in DAM.<br/> In this
-profile you can check out all of my repositories.</h3>
-<hr />
+<h3 align="center">
+iOS Developer · Swift · UIKit · Clean Architecture · VIPER
+</h3>
 
-- 📫 Contact Me at **gabidam1920@gmail.com**
+<p align="center">
+Building scalable, maintainable and user-focused mobile applications.
+</p>
 
-<p><a href = "https://www.linkedin.com/in/gabriel-moreno-fernandez/" target = "_blank" rel = "noopener noreferrer" ><img src = "https://github.com/andresbr92/andresbr92/raw/master/logos/linkedin.png" width = "40" style = "max-width:100%; "></a>
-<a href = "https://github.com/gabi8311" target = "_blank" rel = "noopener noreferrer" ><img src = "https://github.com/andresbr92/andresbr92/raw/master/logos/github-logo.png" width = "40" style = "max-width:100%;"></a>
-<a href = "https://www.instagram.com/gabi_mf83/?hl=es" target = "_blank" rel = "noopener noreferrer" ><img src = "https://github.com/andresbr92/andresbr92/raw/master/logos/instagram.png" width = "40" style = "max-width:100%;"></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-moreno-fernandez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabidam1920@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gabi8311">
+    <img src="https://img.shields.io/badge/GitHub-Gabi8311-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p> <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=gabi8311&show_icons=true&locale=en&layout=compact" alt = "gabi8311" /> </p>
-<p> <img src = "https://github-readme-stats.vercel.app/api?username=gabi8311&show_icons=true&locale=en" alt = "gabi8311" /> </p>
+---
+
+## About Me
+
+I'm an iOS Developer focused on building scalable and maintainable mobile applications using Swift, UIKit and clean architectural patterns.
+
+Currently working on enterprise healthcare mobile solutions, applying modular architecture, VIPER, SOLID principles and reusable components to solve real product problems.
+
+I care about clean code, long-term maintainability, practical architecture and using AI as a productivity multiplier for software development.
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreData-0052CC?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Architecture & Practices
+
+- Clean Architecture
+- VIPER
+- SOLID principles
+- Modular design
+- Reusable components
+- Swift Concurrency
+- Dependency Injection
+- Unit testing mindset
+- Code review and refactoring
+- Maintainable UI flows with UIKit
+
+---
+
+## Current Focus
+
+- Building scalable iOS applications
+- Improving mobile architecture decisions
+- Applying AI to software development workflows
+- Creating reusable Swift components
+- Automating repetitive development tasks
+
+---
+
+## Featured Areas
+
+```swift
+let developer: Developer = Developer(
+    name: "Gabriel Moreno",
+    role: "iOS Developer",
+    mainStack: ["Swift", "UIKit", "VIPER", "Clean Architecture"],
+    interests: ["AI", "Automation", "Mobile Architecture", "Productivity"],
+    location: "Madrid, Spain"
+)
 
